@@ -1,0 +1,1 @@
+invoke-plaster . -DestinationPath ..\gitModules
