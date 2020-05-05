@@ -1,0 +1,1 @@
+Plaster template for new PowerShell module creation
